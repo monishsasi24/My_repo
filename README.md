@@ -1,2 +1,1 @@
-# My_repo
-My first repo
+Hi my name is monish, I am a software developer
